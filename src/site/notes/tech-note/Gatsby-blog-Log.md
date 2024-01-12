@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech-note/gatsby-blog-log/","title":"搭建gatsby 博客","tags":["tech-notes"]}
+{"dg-publish":true,"permalink":"/tech-note/gatsby-blog-log/","title":"搭建gatsby 博客","tags":["tech-notes"],"created":"2024-01-11T11:38:44.573-05:00","updated":"2024-01-12T12:29:38.496-05:00"}
 ---
 
 ## 研究pop up的部分可不可以预览久一点
