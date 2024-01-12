@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech-note/react/"}
+{"dg-publish":true,"permalink":"/tech-note/react/","created":"2024-01-11T09:45:47.149-05:00","updated":"2024-01-11T19:17:40.721-05:00"}
 ---
 
 
