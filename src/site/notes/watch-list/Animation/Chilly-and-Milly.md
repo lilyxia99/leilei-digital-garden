@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/watch-list/animation/chilly-and-milly/","title":"Chilly and Milly","tags":["animation","stop-motion","3D","still-frame"]}
+{"dg-publish":true,"permalink":"/watch-list/animation/chilly-and-milly/","title":"Chilly and Milly","tags":["animation","stop-motion","3D","still-frame"],"created":"2024-01-09T22:33:53.695-05:00","updated":"2024-01-11T16:50:04.148-05:00"}
 ---
 
 
