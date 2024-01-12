@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/diary/dairy-index/","tags":["diary"]}
+{"dg-publish":true,"permalink":"/diary/dairy-index/","tags":["diary"],"created":"2024-01-12T11:09:43.304-05:00","updated":"2024-01-12T11:47:04.653-05:00"}
 ---
 
 
