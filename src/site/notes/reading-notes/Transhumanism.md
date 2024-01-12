@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading-notes/transhumanism/","title":"Transhumanism","tags":["reading-notes"]}
+{"dg-publish":true,"permalink":"/reading-notes/transhumanism/","title":"Transhumanism","tags":["reading-notes"],"created":"2023-12-31T10:45:11.964-05:00","updated":"2024-01-11T16:49:34.300-05:00"}
 ---
 
 
