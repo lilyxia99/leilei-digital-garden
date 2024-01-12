@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/random-thoughts/about-writing-in-chinese/","title":"用母语写作","tags":["random-thoughts"]}
+{"dg-publish":true,"permalink":"/random-thoughts/about-writing-in-chinese/","title":"用母语写作","tags":["random-thoughts"],"created":"2024-01-09T18:23:56.687-05:00","updated":"2024-01-11T16:49:29.047-05:00"}
 ---
 
 
