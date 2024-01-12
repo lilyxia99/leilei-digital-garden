@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/diary/all-dairies/"}
+{"dg-publish":true,"permalink":"/diary/all-dairies/","created":"2024-01-12T11:18:11.147-05:00","updated":"2024-01-12T11:46:30.515-05:00"}
 ---
 
 
