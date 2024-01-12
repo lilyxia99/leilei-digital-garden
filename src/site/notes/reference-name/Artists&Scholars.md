@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reference-name/artists-and-scholars/","title":"Names"}
+{"dg-publish":true,"permalink":"/reference-name/artists-and-scholars/","title":"Names","created":"2024-01-11T18:57:43.130-05:00","updated":"2024-01-11T18:59:03.309-05:00"}
 ---
 
 
